@@ -26,7 +26,7 @@ Create a function that accepts a string and returns a new string with its letter
 #### Output:
 
 ```
-alphabet_soup("jhorem") ➝ ahjmor  
+alphabet_soup("jhoram") ➝ ahjmor  
 alphabet_soup("ascorbate") ➝ aabceorst
 ```
 
